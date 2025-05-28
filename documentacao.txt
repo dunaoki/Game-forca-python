@@ -1,0 +1,8 @@
+Para desenvolver o jogo da forca vamos seguir seguintes passos:
+# 1-definir lista de palavras possiveies
+# 2-escolher palavras aleatorias da lsita 
+# 3-crias uma lista vazia para armazenar as letras advinhadas 
+# 4- definir numero max de tentativas 
+# 5-Enquanto o numero de tentativas nao atingir o limite max :
+
+a- 
